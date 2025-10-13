@@ -98,3 +98,5 @@ if password1 == password2:
 else:
   print('no confirm')
 ```
+
+Операция `==` - операция равенства
